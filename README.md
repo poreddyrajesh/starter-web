@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ##Copy right Notice
 
-Copyright notice 2022 Git training
+Copyright notice 2022 Git training by Jason
